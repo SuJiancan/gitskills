@@ -1,4 +1,1 @@
-# gitskills
-get getskills.
-push origin
-pull from origin.
+Creating a new branch is quick.
